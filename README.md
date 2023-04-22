@@ -4,5 +4,5 @@ Training a machine learning model is a very time-consuming task. As datasets siz
 
 
 
-![Alt Generated Flower Image](https://github.com/acfilok96/Improvement-On-Generative-Adversarial-Network/blob/main/Files/Flower%20Data/Generated%20Images.png)
+![Alt Generated Flower Image](https://github.com/acfilok96/Distributed-Learning/blob/main/distributed%20learning%20logo.png)
 
